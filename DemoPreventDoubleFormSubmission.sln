@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoPreventDoubleFormSubmission", "DemoPreventDoubleFormSubmission\DemoPreventDoubleFormSubmission.csproj", "{2171A4F0-5C41-4CA5-9186-6D1900063934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2171A4F0-5C41-4CA5-9186-6D1900063934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2171A4F0-5C41-4CA5-9186-6D1900063934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2171A4F0-5C41-4CA5-9186-6D1900063934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2171A4F0-5C41-4CA5-9186-6D1900063934}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {057C00EF-DFE8-40D4-8EE6-B7F460027FA7}
+	EndGlobalSection
+EndGlobal
